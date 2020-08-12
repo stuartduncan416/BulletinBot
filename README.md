@@ -22,7 +22,9 @@ or
 
 python bulletinBot.py -Watson
 
-Watson was chosen because it has free tier that doesn't require a credit card, although you are limited to 10,000 characters synthesis a month. Watson definetly sounds better pyttsx3.
+Watson was chosen because it has free tier that doesn't require a credit card, although you are limited to 10,000 characters synthesis a month. Watson definitely sounds better pyttsx3.
+
+An example of the MP3 output of both the Watson and pyttsx3 text-to-speech implementation is included in the repository.
 
 This system has only been tested on a Windows 10 machine, pyttsx3 is supposed to work on Linux and MacOS but haven't had chance to test it yet.
 
